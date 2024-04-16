@@ -1,0 +1,14 @@
+/home/naveen/VsCode/Csharp/navi/obj/Debug/net8.0/navi.GeneratedMSBuildEditorConfig.editorconfig
+/home/naveen/VsCode/Csharp/navi/obj/Debug/net8.0/navi.AssemblyInfoInputs.cache
+/home/naveen/VsCode/Csharp/navi/obj/Debug/net8.0/navi.AssemblyInfo.cs
+/home/naveen/VsCode/Csharp/navi/obj/Debug/net8.0/navi.csproj.CoreCompileInputs.cache
+/home/naveen/VsCode/Csharp/navi/bin/Debug/net8.0/navi
+/home/naveen/VsCode/Csharp/navi/bin/Debug/net8.0/navi.deps.json
+/home/naveen/VsCode/Csharp/navi/bin/Debug/net8.0/navi.runtimeconfig.json
+/home/naveen/VsCode/Csharp/navi/bin/Debug/net8.0/navi.dll
+/home/naveen/VsCode/Csharp/navi/bin/Debug/net8.0/navi.pdb
+/home/naveen/VsCode/Csharp/navi/obj/Debug/net8.0/navi.dll
+/home/naveen/VsCode/Csharp/navi/obj/Debug/net8.0/refint/navi.dll
+/home/naveen/VsCode/Csharp/navi/obj/Debug/net8.0/navi.pdb
+/home/naveen/VsCode/Csharp/navi/obj/Debug/net8.0/navi.genruntimeconfig.cache
+/home/naveen/VsCode/Csharp/navi/obj/Debug/net8.0/ref/navi.dll
